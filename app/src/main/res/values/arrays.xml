@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_names">
+        <item>Россия</item>
+        <item>Беларусь</item>
+        <item>США</item>
+        <item>Германия</item>
+        <item>Китай</item>
+        <item>Испания</item>
+        <item>Великобритания</item>
+        <item>Франция</item>
+        <item>Ямайка</item>
+        <item>Кирибати</item>
+    </string-array>
+
+    <string-array name="country_capital">
+        <item>Москва</item>
+        <item>Минск</item>
+        <item>Вашингтон</item>
+        <item>Берлин</item>
+        <item>Пекин</item>
+        <item>Мадрид</item>
+        <item>Лондон</item>
+        <item>Париж</item>
+        <item>Кингстон</item>
+        <item>Тарава</item>
+    </string-array>
+
+    <integer-array name="coat_of_arms_img">
+        <item>@drawable/russia_coat_of_arms</item>
+        <item>@drawable/belarus_coat_of_arms</item>
+        <item>@drawable/usa_coat_of_arms</item>
+        <item>@drawable/germany_coat_of_arms</item>
+        <item>@drawable/china_coat_of_arms</item>
+        <item>@drawable/spain_coat_of_arms</item>
+        <item>@drawable/uk_coat_of_arms</item>
+        <item>@drawable/france_coat_of_arms</item>
+        <item>@drawable/jamaica_coat_of_arms</item>
+        <item>@drawable/kiribati_coat_of_arms</item>
+    </integer-array>
+
+</resources>
